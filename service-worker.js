@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Codeforces-Contest-Reminder/precache-manifest.29c34de18c5ec53ee2ee87c338380d6e.js"
+  "/Codeforces-Contest-Reminder/precache-manifest.c3115b08f85f8ca4401679e05e7403bf.js"
 );
 
 self.addEventListener('message', (event) => {
