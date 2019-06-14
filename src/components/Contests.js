@@ -19,7 +19,7 @@ export default class Contests extends React.Component {
     		1. Fetch Codeforces contests from the API
     		2. Store all the contest details in the state*/
     		/*Step 1 : Fetching the Codeforces contests from the API */
-    	fetch("http://codeforces.com/api/contest.list").then(res => res.json()).then(
+    	fetch("https://codeforces.com/api/contest.list").then(res => res.json()).then(
         	(result) => {
         		const contests=result["result"].filter(contest => contest.phase==="BEFORE" )
         		/*Step 2 : Store all the contest details in the state*/

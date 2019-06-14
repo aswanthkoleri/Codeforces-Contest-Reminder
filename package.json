@@ -2,11 +2,14 @@
   "name": "create-react-app",
   "version": "4.0.0",
   "private": true,
+  "homepage": "https://aswanthkoleri.github.io/Codeforces-Contest-Reminder/",
   "scripts": {
     "start": "SKIP_PREFLIGHT_CHECK=true react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@material-ui/core": "latest",
@@ -29,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }

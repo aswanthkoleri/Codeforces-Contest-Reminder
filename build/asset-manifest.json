@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3bd14211.chunk.css",
-    "main.js": "/static/js/main.b7557863.chunk.js",
-    "main.js.map": "/static/js/main.b7557863.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.f33bd7ca.chunk.js": "/static/js/2.f33bd7ca.chunk.js",
-    "static/js/2.f33bd7ca.chunk.js.map": "/static/js/2.f33bd7ca.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9b579e178fffaab4eaf66c9f64a8df3c.js": "/precache-manifest.9b579e178fffaab4eaf66c9f64a8df3c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3bd14211.chunk.css.map": "/static/css/main.3bd14211.chunk.css.map"
+    "main.css": "/Codeforces-Contest-Reminder/static/css/main.3bd14211.chunk.css",
+    "main.js": "/Codeforces-Contest-Reminder/static/js/main.b86cda56.chunk.js",
+    "main.js.map": "/Codeforces-Contest-Reminder/static/js/main.b86cda56.chunk.js.map",
+    "runtime~main.js": "/Codeforces-Contest-Reminder/static/js/runtime~main.c02993fa.js",
+    "runtime~main.js.map": "/Codeforces-Contest-Reminder/static/js/runtime~main.c02993fa.js.map",
+    "static/js/2.f33bd7ca.chunk.js": "/Codeforces-Contest-Reminder/static/js/2.f33bd7ca.chunk.js",
+    "static/js/2.f33bd7ca.chunk.js.map": "/Codeforces-Contest-Reminder/static/js/2.f33bd7ca.chunk.js.map",
+    "index.html": "/Codeforces-Contest-Reminder/index.html",
+    "precache-manifest.29c34de18c5ec53ee2ee87c338380d6e.js": "/Codeforces-Contest-Reminder/precache-manifest.29c34de18c5ec53ee2ee87c338380d6e.js",
+    "service-worker.js": "/Codeforces-Contest-Reminder/service-worker.js",
+    "static/css/main.3bd14211.chunk.css.map": "/Codeforces-Contest-Reminder/static/css/main.3bd14211.chunk.css.map"
   }
 }
